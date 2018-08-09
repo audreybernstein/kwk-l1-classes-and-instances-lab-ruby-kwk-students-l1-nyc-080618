@@ -8,4 +8,5 @@ class Dog
   lassie = Dog.new("lassie")
   def name
   @name 
+  end
 end
