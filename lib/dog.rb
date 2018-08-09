@@ -11,4 +11,4 @@ class Dog
   end
 end
 
-Dog
+Dog.name
